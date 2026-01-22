@@ -1,0 +1,13 @@
+/storage/uploads/*
+!/storage/uploads/.gitkeep
+
+phpinfo.php
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# no versionar config real
+config.php
+C:/xampp/chayanne_config/config.php
